@@ -1,0 +1,23 @@
+package-as: sArenaReborn
+
+externals:
+  sArenaReborn/Libs/LibStub:
+    url: https://repos.wowace.com/wow/libstub/trunk
+    tag: 1.0
+  sArenaReborn/Libs/AceDB-3.0: https://repos.wowace.com/wow/ace3/trunk/AceDB-3.0
+  sArenaReborn/Libs/AceGUI-3.0: https://repos.wowace.com/wow/ace3/trunk/AceGUI-3.0
+  sArenaReborn/Libs/AceDBOptions-3.0: https://repos.wowace.com/wow/ace3/trunk/AceDBOptions-3.0
+  sArenaReborn/Libs/AceConfig-3.0: https://repos.wowace.com/wow/ace3/trunk/AceConfig-3.0
+  sArenaReborn/Libs/AceConsole-3.0: https://repos.wowace.com/wow/ace3/trunk/AceConsole-3.0
+  sArenaReborn/Libs/CallbackHandler-1.0: https://repos.wowace.com/wow/callbackhandler/trunk/CallbackHandler-1.0
+
+enable-nolib-creation: no
+
+ignore:
+  - release.sh
+  - CHANGELOG.md
+  - README.md
+  - pkgmeta.yaml
+
+move-folders:
+  sArenaReborn/sArenaReborn: sArenaReborn

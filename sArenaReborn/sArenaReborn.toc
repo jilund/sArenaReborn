@@ -1,0 +1,22 @@
+## Interface: 100200
+## Title: sArena Reborn
+## Notes: Arena Frames
+## Author: Decimal
+## Version: @project-version@
+
+## X-Curse-Project-ID: 942474
+
+## X-Category: PvP/Arena
+## X-Credits: Stako, Tekkub, Starship, Kouri, Kollektiv, Lyn, haste, evl, Zork, jturel, wardz, yaggertv
+
+## X-Github-Repo: {{GithubProjectUrl}}
+## X-Github-Issues: {{GithubProjectUrl}}/issues
+## X-Github-Project-Author: @project-author@
+## X-Github-Project-Hash: @project-hash@
+## X-Github-Project-Last-Changed-Date: @project-date-iso@
+## X-Github-Project-Version: @project-version@
+
+
+## SavedVariables: sArenaRebornDB
+embeds.xml
+sArenaReborn.xml
