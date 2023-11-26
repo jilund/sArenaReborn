@@ -5,6 +5,7 @@
 ## Version: @project-version@
 
 ## X-Curse-Project-ID: 942474
+## X-Wago-ID: ZKxqYEGk
 
 ## X-Category: PvP/Arena
 ## X-Credits: Stako, Tekkub, Starship, Kouri, Kollektiv, Lyn, haste, evl, Zork, jturel, wardz, yaggertv
