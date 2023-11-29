@@ -1,5 +1,5 @@
 .release/*
 release.sh
 .vscode
-sArenaReborn/Libs
+addon/Libs
 *.swp
